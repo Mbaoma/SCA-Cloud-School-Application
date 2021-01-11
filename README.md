@@ -22,7 +22,7 @@ Technical Assessment for SCA Cloud School Bootcamp
     ```
     Example
     ```
-   docker run -p 8888:5000 --name cloud-school-image mbaoma/cloud-school-image:v1
+    docker run -p 8888:5000 --name cloud-school-image mbaoma/cloud-school-image:v1
     ```
 
 4.  To confirm if your container was built, run:
@@ -65,7 +65,7 @@ Technical Assessment for SCA Cloud School Bootcamp
     ```
     Example
     ```
-   docker run -p 8888:5000 --name cloud-school-image mbaoma/cloud-school-image:latest
+    docker run -p 8888:5000 --name cloud-school-image mbaoma/cloud-school-image:latest
     ```
 
 11. Push the updated image to DockerHub
